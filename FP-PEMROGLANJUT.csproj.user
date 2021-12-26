@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="View\AirPDAMPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\CekTagihanPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\CekTagihanPascabayarPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\EditPengaturanPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\EWalletPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\GamePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\HasilTransaksiPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\KonfirmasiPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\NoEWalletPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\NominalBayarPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\NominalEWalletPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\NominalPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\NominalVoucherPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\NoTelpPembeliPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PaketDataPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PascabayarPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PascabayarPLNPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PembayaranPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PilihGamePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PilihPaketDataPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PilihStreamingPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PulsaPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\StreamingPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\TagihanListrikPLNPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\TokenPLNPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\VoucherPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="View\AirPDAMPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\CekTagihanPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\CekTagihanPascabayarPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\EditPengaturanPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\EWalletPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\GamePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\HasilTransaksiPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\KonfirmasiPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\NoEWalletPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\NominalBayarPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\NominalEWalletPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\NominalPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\NominalVoucherPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\NoTelpPembeliPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PaketDataPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PascabayarPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PascabayarPLNPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PembayaranPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PilihGamePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PilihPaketDataPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PilihStreamingPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PulsaPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\StreamingPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\TagihanListrikPLNPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\TokenPLNPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\VoucherPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
